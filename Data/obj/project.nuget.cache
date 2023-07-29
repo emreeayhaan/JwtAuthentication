@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dY5hhuyHGSJ+mLS8EoULic9cw8mNxRL5T+iCEW38yDRgv/cbvVAnw/g7XWMogWbz81P5fppiZRFizrZ6MGEMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\JwtAuthentication\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\mongodb.bson\\2.20.0\\mongodb.bson.2.20.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

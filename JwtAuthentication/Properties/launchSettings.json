@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:12828",
+      "sslPort": 44333
+    }
+  },
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5088",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MONGO_URI": "mongodb://localhost:27017",
+        "DB_NAME": "JwtDeneme",
+        "Key": "ZsSxw6fEsXNvZnRqd3R0b2tlbnNlY3VyaXR5a2V5",
+        "Audience": "FıçıSoft",
+        "Issuer": "FıçıSoft.com"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7105;http://localhost:5088",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MONGO_URI": "mongodb://localhost:27017",
+        "DB_NAME": "JwtDeneme",
+        "Key": "ZsSxw6fEsXNvZnRqd3R0b2tlbnNlY3VyaXR5a2V5",
+        "Audience": "FıçıSoft",
+        "Issuer": "FıçıSoft.com"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MONGO_URI": "mongodb://localhost:27017",
+        "DB_NAME": "JwtDeneme",
+        "Key": "ZsSxw6fEsXNvZnRqd3R0b2tlbnNlY3VyaXR5a2V5",
+        "Audience": "FıçıSoft",
+        "Issuer": "FıçıSoft.com"
+      }
+    }
+  }
+}
